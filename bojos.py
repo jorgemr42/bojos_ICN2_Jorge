@@ -1,6 +1,6 @@
 import sys
 sys.path.append("/usr/local/lib/python3.7/site-packages")
-import kwant
+#import kwant
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib as mpl
